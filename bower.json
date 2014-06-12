@@ -19,7 +19,7 @@
     "angular": "~1.2.x",
     "jquery": "~2.x",
     "jquery-ui": "~1.10.3",
-    "fullcalendar": "https://github.com/ynjia/fullcalendar-1.6.4.git#fdca969afa962f575048a9ae8ffad25c8120a3f1"
+    "fullcalendar": "https://github.com/ynjia/fullcalendar-1.6.4.git#53e42aa6420308526db49eec3d1f7820212571a5"
   },
   "devDependencies": {
     "angular-mocks": "~1.x",
